@@ -1,14 +1,11 @@
 # MLFlow 
 
-The main part of this tutorial is written in Jupyter notebooks and can be found in the `notebooks` folder:
+El contenido principal de este tutorial está escrito en cuadernos Jupyter:
 
-- `getting-started.ipynb` - Introduction to MLflow
-- `train-your-first-model.ipynb` - Experiment tracking with MLflow
-- `train-your-first-model-with-signature.ipynb` - Add model signature to your runs
-- `model-inference.ipynb` - Try the model you just put in production
-- `the-iris-exercise.ipynb` - First exercise to get familiarity with MLflow
-- `heart-disease-prediction.ipynb` - Intro notebook to understand MLflow projects
-- `mnist-exercise.ipynb` - Simple exercise to start develop an MLflow project
-- `register-your-model.ipynb` - Use this notebook to get familiarity with the MLflow API
-
-Inside the `mlflow-project` you will find an example of an MLflow Project
+- `getting-started.ipynb` - Introducción a MLflow
+- `train-your-first-model.ipynb` - Seguimiento de experimentos con MLflow
+- `train-your-first-model-with-signature.ipynb` - Añadir firma de modelo a tus ejecuciones
+- `model-inference.ipynb` - Prueba el modelo que acabas de poner en producción
+- `the-iris-exercise.ipynb` - Primer ejercicio para familiarizarse con MLflow
+- `heart-disease-prediction.ipynb` - Cuaderno introductorio para entender los proyectos de MLflow
+- `register-your-model.ipynb` - Usa este cuaderno para familiarizarte con la API de MLflow
