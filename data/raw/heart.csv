@@ -1,0 +1,304 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+63,Male,asymptomatic,145.0,233.0,True,normal,150,No,2.3,upsloping,0,1,1
+37,Male,non-anginal pain,,250.0,False,having ST-T wave abnormality,187,No,3.5,upsloping,0,2,1
+41,Female,atypical angina,,204.0,False,normal,172,No,1.4,downsloping,0,2,1
+56,Male,atypical angina,120.0,236.0,False,having ST-T wave abnormality,178,No,0.8,downsloping,0,2,1
+57,Female,typical angina,120.0,,False,having ST-T wave abnormality,163,Yes,0.6,downsloping,0,2,1
+57,Male,typical angina,140.0,192.0,False,having ST-T wave abnormality,148,No,0.4,flat,0,1,1
+56,Female,atypical angina,140.0,,False,normal,153,No,1.3,flat,0,2,1
+44,Male,atypical angina,120.0,,False,having ST-T wave abnormality,173,No,0.0,downsloping,0,3,1
+52,Male,non-anginal pain,172.0,199.0,True,having ST-T wave abnormality,162,No,0.5,downsloping,0,3,1
+57,Male,non-anginal pain,150.0,168.0,False,having ST-T wave abnormality,174,No,1.6,downsloping,0,2,1
+54,Male,typical angina,140.0,239.0,False,having ST-T wave abnormality,160,No,1.2,downsloping,0,2,1
+48,Female,non-anginal pain,130.0,275.0,False,having ST-T wave abnormality,139,No,0.2,downsloping,0,2,1
+49,Male,atypical angina,130.0,266.0,False,having ST-T wave abnormality,171,No,0.6,downsloping,0,2,1
+64,Male,asymptomatic,110.0,211.0,False,normal,144,Yes,1.8,flat,0,2,1
+58,Female,asymptomatic,150.0,283.0,True,normal,162,No,1.0,downsloping,0,2,1
+50,Female,non-anginal pain,120.0,,False,having ST-T wave abnormality,158,No,1.6,flat,0,2,1
+58,Female,non-anginal pain,,340.0,False,having ST-T wave abnormality,172,No,0.0,downsloping,0,2,1
+66,Female,asymptomatic,150.0,226.0,False,having ST-T wave abnormality,114,No,2.6,upsloping,0,2,1
+43,Male,typical angina,150.0,247.0,False,having ST-T wave abnormality,171,No,1.5,downsloping,0,2,1
+69,Female,asymptomatic,140.0,239.0,False,having ST-T wave abnormality,151,No,1.8,downsloping,2,2,1
+59,Male,typical angina,135.0,234.0,False,having ST-T wave abnormality,161,No,0.5,flat,0,3,1
+44,Male,non-anginal pain,130.0,233.0,False,having ST-T wave abnormality,179,Yes,0.4,downsloping,0,2,1
+42,Male,typical angina,140.0,226.0,False,having ST-T wave abnormality,178,No,0.0,downsloping,0,2,1
+61,Male,non-anginal pain,150.0,243.0,True,having ST-T wave abnormality,137,Yes,1.0,flat,0,2,1
+40,Male,asymptomatic,140.0,,False,having ST-T wave abnormality,178,Yes,1.4,downsloping,0,3,1
+71,Female,atypical angina,160.0,302.0,False,having ST-T wave abnormality,162,No,0.4,downsloping,2,2,1
+59,Male,non-anginal pain,150.0,212.0,True,having ST-T wave abnormality,157,No,1.6,downsloping,0,2,1
+51,Male,non-anginal pain,110.0,175.0,False,having ST-T wave abnormality,123,No,0.6,downsloping,0,2,1
+65,Female,non-anginal pain,140.0,417.0,True,normal,157,No,0.8,downsloping,1,2,1
+53,Male,non-anginal pain,130.0,197.0,True,normal,152,No,1.2,upsloping,0,2,1
+41,Female,atypical angina,105.0,198.0,False,having ST-T wave abnormality,168,No,0.0,downsloping,1,2,1
+65,Male,typical angina,120.0,177.0,False,having ST-T wave abnormality,140,No,0.4,downsloping,0,3,1
+44,Male,atypical angina,130.0,219.0,False,normal,188,No,0.0,downsloping,0,2,1
+54,Male,non-anginal pain,125.0,,False,normal,152,No,0.5,upsloping,1,2,1
+51,Male,asymptomatic,125.0,213.0,False,normal,125,Yes,1.4,downsloping,1,2,1
+46,Female,non-anginal pain,142.0,177.0,False,normal,160,Yes,1.4,upsloping,0,2,1
+54,Female,non-anginal pain,135.0,304.0,True,having ST-T wave abnormality,170,No,0.0,downsloping,0,2,1
+54,Male,non-anginal pain,150.0,232.0,False,normal,165,No,1.6,downsloping,0,3,1
+65,Female,non-anginal pain,155.0,,False,having ST-T wave abnormality,148,No,0.8,downsloping,0,2,1
+65,Female,non-anginal pain,160.0,360.0,False,normal,151,No,0.8,downsloping,0,2,1
+51,Female,non-anginal pain,140.0,308.0,False,normal,142,No,1.5,downsloping,1,2,1
+48,Male,atypical angina,130.0,245.0,False,normal,180,No,0.2,flat,0,2,1
+45,Male,typical angina,104.0,208.0,False,normal,148,Yes,3.0,flat,0,2,1
+53,Female,typical angina,130.0,264.0,False,normal,143,No,0.4,flat,0,2,1
+39,Male,non-anginal pain,140.0,321.0,False,normal,182,No,0.0,downsloping,0,2,1
+52,Male,atypical angina,120.0,325.0,False,having ST-T wave abnormality,172,No,0.2,downsloping,0,2,1
+44,Male,non-anginal pain,140.0,235.0,False,normal,180,No,0.0,downsloping,0,2,1
+47,Male,non-anginal pain,138.0,,False,normal,156,No,0.0,downsloping,0,2,1
+53,Female,non-anginal pain,128.0,216.0,False,normal,115,No,0.0,downsloping,0,0,1
+53,Female,typical angina,138.0,234.0,False,normal,160,No,0.0,downsloping,0,2,1
+51,Female,non-anginal pain,130.0,256.0,False,normal,149,No,0.5,downsloping,0,2,1
+66,Male,typical angina,120.0,302.0,False,normal,151,No,0.4,flat,0,2,1
+62,Male,non-anginal pain,,231.0,False,having ST-T wave abnormality,146,No,1.8,flat,3,3,1
+44,Female,non-anginal pain,108.0,141.0,False,having ST-T wave abnormality,175,No,0.6,flat,0,2,1
+63,Female,non-anginal pain,135.0,252.0,False,normal,172,No,0.0,downsloping,0,2,1
+52,Male,atypical angina,134.0,201.0,False,having ST-T wave abnormality,158,No,0.8,downsloping,1,2,1
+48,Male,typical angina,122.0,222.0,False,normal,186,No,0.0,downsloping,0,2,1
+45,Male,typical angina,115.0,260.0,False,normal,185,No,0.0,downsloping,0,2,1
+34,Male,asymptomatic,118.0,182.0,False,normal,174,No,0.0,downsloping,0,2,1
+57,Female,typical angina,,303.0,False,normal,159,No,0.0,downsloping,1,2,1
+71,Female,non-anginal pain,110.0,265.0,True,normal,130,No,0.0,downsloping,1,2,1
+54,Male,atypical angina,108.0,309.0,False,having ST-T wave abnormality,156,No,0.0,downsloping,0,3,1
+52,Male,asymptomatic,118.0,186.0,False,normal,190,No,0.0,flat,0,1,1
+41,Male,atypical angina,135.0,203.0,False,having ST-T wave abnormality,132,No,0.0,flat,0,1,1
+58,Male,non-anginal pain,140.0,211.0,True,normal,165,No,0.0,downsloping,0,2,1
+35,Female,typical angina,138.0,183.0,False,having ST-T wave abnormality,182,No,1.4,downsloping,0,2,1
+51,Male,non-anginal pain,100.0,222.0,False,having ST-T wave abnormality,143,Yes,1.2,flat,0,2,1
+45,Female,atypical angina,130.0,234.0,False,normal,175,No,0.6,flat,0,2,1
+44,Male,atypical angina,120.0,220.0,False,having ST-T wave abnormality,170,No,0.0,downsloping,0,2,1
+62,Female,typical angina,124.0,209.0,False,having ST-T wave abnormality,163,No,0.0,downsloping,0,2,1
+54,Male,non-anginal pain,120.0,258.0,False,normal,147,No,0.4,flat,0,3,1
+51,Male,non-anginal pain,,227.0,False,having ST-T wave abnormality,154,Yes,0.0,downsloping,1,3,1
+29,Male,atypical angina,130.0,204.0,False,normal,202,No,0.0,downsloping,0,2,1
+51,Male,typical angina,140.0,261.0,False,normal,186,Yes,0.0,downsloping,0,2,1
+43,Female,non-anginal pain,122.0,213.0,False,having ST-T wave abnormality,165,No,0.2,flat,0,2,1
+55,Female,atypical angina,,250.0,False,normal,161,No,1.4,flat,0,2,1
+51,Male,non-anginal pain,125.0,245.0,True,normal,166,No,2.4,flat,0,2,1
+59,Male,atypical angina,140.0,,False,having ST-T wave abnormality,164,Yes,0.0,downsloping,0,2,1
+52,Male,atypical angina,128.0,205.0,True,having ST-T wave abnormality,184,No,0.0,downsloping,0,2,1
+58,Male,non-anginal pain,105.0,240.0,False,normal,154,Yes,0.6,flat,0,3,1
+41,Male,non-anginal pain,112.0,250.0,False,having ST-T wave abnormality,179,No,0.0,downsloping,0,2,1
+45,Male,atypical angina,128.0,308.0,False,normal,170,No,0.0,downsloping,0,2,1
+60,Female,non-anginal pain,102.0,318.0,False,having ST-T wave abnormality,160,No,0.0,downsloping,1,2,1
+52,Male,asymptomatic,,298.0,True,having ST-T wave abnormality,178,No,1.2,flat,0,3,1
+42,Female,typical angina,102.0,265.0,False,normal,122,No,0.6,flat,0,2,1
+67,Female,non-anginal pain,115.0,564.0,False,normal,160,No,1.6,flat,0,3,1
+68,Male,non-anginal pain,118.0,277.0,False,having ST-T wave abnormality,151,No,1.0,downsloping,1,3,1
+46,Male,atypical angina,101.0,197.0,True,having ST-T wave abnormality,156,No,0.0,downsloping,0,3,1
+54,Female,non-anginal pain,110.0,214.0,False,having ST-T wave abnormality,158,No,1.6,flat,0,2,1
+58,Female,typical angina,100.0,248.0,False,normal,122,No,1.0,flat,0,2,1
+48,Male,non-anginal pain,124.0,255.0,True,having ST-T wave abnormality,175,No,0.0,downsloping,2,2,1
+57,Male,typical angina,,207.0,False,having ST-T wave abnormality,168,Yes,0.0,downsloping,0,3,1
+52,Male,non-anginal pain,138.0,223.0,False,having ST-T wave abnormality,169,No,0.0,downsloping,4,2,1
+54,Female,atypical angina,132.0,288.0,True,normal,159,Yes,0.0,downsloping,1,2,1
+45,Female,atypical angina,,160.0,False,having ST-T wave abnormality,138,No,0.0,flat,0,2,1
+53,Male,typical angina,142.0,,False,normal,111,Yes,0.0,downsloping,0,3,1
+62,Female,typical angina,140.0,394.0,False,normal,157,No,1.2,flat,0,2,1
+52,Male,typical angina,108.0,,True,having ST-T wave abnormality,147,No,0.1,downsloping,3,3,1
+43,Male,non-anginal pain,130.0,315.0,False,having ST-T wave abnormality,162,No,1.9,downsloping,1,2,1
+53,Male,non-anginal pain,130.0,246.0,True,normal,173,No,0.0,downsloping,3,2,1
+42,Male,asymptomatic,148.0,244.0,False,normal,178,No,0.8,downsloping,2,2,1
+59,Male,asymptomatic,178.0,270.0,False,normal,145,No,4.2,upsloping,0,3,1
+63,Female,atypical angina,140.0,195.0,False,having ST-T wave abnormality,179,No,0.0,downsloping,2,2,1
+42,Male,non-anginal pain,120.0,240.0,True,having ST-T wave abnormality,194,No,0.8,upsloping,0,3,1
+50,Male,non-anginal pain,129.0,196.0,False,having ST-T wave abnormality,163,No,0.0,downsloping,0,2,1
+68,Female,non-anginal pain,120.0,211.0,False,normal,115,No,1.5,flat,0,2,1
+69,Male,asymptomatic,,234.0,True,normal,131,No,0.1,flat,1,2,1
+45,Female,typical angina,138.0,236.0,False,normal,152,Yes,0.2,flat,0,2,1
+50,Female,atypical angina,120.0,244.0,False,having ST-T wave abnormality,162,No,1.1,downsloping,0,2,1
+50,Female,typical angina,,,False,normal,159,No,0.0,downsloping,0,2,1
+64,Female,typical angina,180.0,325.0,False,having ST-T wave abnormality,154,Yes,0.0,downsloping,0,2,1
+57,Male,non-anginal pain,,,True,having ST-T wave abnormality,173,No,0.2,downsloping,1,3,1
+64,Female,non-anginal pain,140.0,313.0,False,having ST-T wave abnormality,133,No,0.2,downsloping,0,3,1
+43,Male,typical angina,110.0,211.0,False,having ST-T wave abnormality,161,No,0.0,downsloping,0,3,1
+55,Male,atypical angina,130.0,262.0,False,having ST-T wave abnormality,155,No,0.0,downsloping,0,2,1
+37,Female,non-anginal pain,120.0,215.0,False,having ST-T wave abnormality,170,No,0.0,downsloping,0,2,1
+41,Male,non-anginal pain,130.0,214.0,False,normal,168,No,2.0,flat,0,2,1
+56,Male,asymptomatic,120.0,193.0,False,normal,162,No,1.9,flat,0,3,1
+46,Female,atypical angina,,204.0,False,having ST-T wave abnormality,172,No,0.0,downsloping,0,2,1
+46,Female,typical angina,138.0,243.0,False,normal,152,Yes,0.0,flat,0,2,1
+64,Female,typical angina,130.0,303.0,False,having ST-T wave abnormality,122,No,2.0,flat,2,2,1
+59,Male,typical angina,138.0,271.0,False,normal,182,No,0.0,downsloping,0,2,1
+41,Female,non-anginal pain,112.0,268.0,False,normal,172,Yes,0.0,downsloping,0,2,1
+54,Female,non-anginal pain,108.0,267.0,False,normal,167,No,0.0,downsloping,0,2,1
+39,Female,non-anginal pain,94.0,199.0,False,having ST-T wave abnormality,179,No,0.0,downsloping,0,2,1
+34,Female,atypical angina,118.0,210.0,False,having ST-T wave abnormality,192,No,0.7,downsloping,0,2,1
+47,Male,typical angina,112.0,204.0,False,having ST-T wave abnormality,143,No,0.1,downsloping,0,2,1
+67,Female,non-anginal pain,152.0,277.0,False,having ST-T wave abnormality,172,No,0.0,downsloping,1,2,1
+52,Female,non-anginal pain,136.0,196.0,False,normal,169,No,0.1,flat,0,2,1
+74,Female,atypical angina,120.0,269.0,False,normal,121,Yes,0.2,downsloping,1,2,1
+54,Female,non-anginal pain,160.0,201.0,False,having ST-T wave abnormality,163,No,0.0,downsloping,1,2,1
+49,Female,atypical angina,134.0,271.0,False,having ST-T wave abnormality,162,No,0.0,flat,0,2,1
+42,Male,atypical angina,120.0,295.0,False,having ST-T wave abnormality,162,No,0.0,downsloping,0,2,1
+41,Male,atypical angina,,235.0,False,having ST-T wave abnormality,153,No,0.0,downsloping,0,2,1
+41,Female,atypical angina,126.0,306.0,False,having ST-T wave abnormality,163,No,0.0,downsloping,0,2,1
+49,Female,typical angina,130.0,269.0,False,having ST-T wave abnormality,163,No,0.0,downsloping,0,2,1
+60,Female,non-anginal pain,120.0,178.0,True,having ST-T wave abnormality,96,No,0.0,downsloping,0,2,1
+62,Male,atypical angina,128.0,208.0,True,normal,140,No,0.0,downsloping,0,2,1
+57,Male,typical angina,110.0,,False,having ST-T wave abnormality,126,Yes,1.5,flat,0,1,1
+64,Male,typical angina,128.0,263.0,False,having ST-T wave abnormality,105,Yes,0.2,flat,1,3,1
+51,Female,non-anginal pain,120.0,295.0,False,normal,157,No,0.6,downsloping,0,2,1
+43,Male,typical angina,115.0,303.0,False,having ST-T wave abnormality,181,No,1.2,flat,0,2,1
+42,Female,non-anginal pain,120.0,209.0,False,having ST-T wave abnormality,173,No,0.0,flat,0,2,1
+67,Female,typical angina,106.0,223.0,False,having ST-T wave abnormality,142,No,0.3,downsloping,2,2,1
+76,Female,non-anginal pain,140.0,197.0,False,showing probable or definite left ventricular hypertrophy by Estes' criteria,116,No,1.1,flat,0,2,1
+70,Male,atypical angina,156.0,245.0,False,normal,143,No,0.0,downsloping,0,2,1
+44,Female,non-anginal pain,,,False,having ST-T wave abnormality,149,No,0.3,flat,1,2,1
+60,Female,asymptomatic,150.0,240.0,False,having ST-T wave abnormality,171,No,0.9,downsloping,0,2,1
+44,Male,non-anginal pain,,226.0,False,having ST-T wave abnormality,169,No,0.0,downsloping,0,2,1
+42,Male,non-anginal pain,,180.0,False,having ST-T wave abnormality,150,No,0.0,downsloping,0,2,1
+66,Male,typical angina,160.0,228.0,False,normal,138,No,2.3,downsloping,0,1,1
+71,Female,typical angina,112.0,149.0,False,having ST-T wave abnormality,125,No,1.6,flat,0,2,1
+64,Male,asymptomatic,170.0,,False,normal,155,No,0.6,flat,0,3,1
+66,Female,non-anginal pain,146.0,278.0,False,normal,152,No,0.0,flat,1,2,1
+39,Female,non-anginal pain,138.0,220.0,False,having ST-T wave abnormality,152,No,0.0,flat,0,2,1
+58,Female,typical angina,130.0,197.0,False,having ST-T wave abnormality,131,No,0.6,flat,0,2,1
+47,Male,non-anginal pain,130.0,253.0,False,having ST-T wave abnormality,179,No,0.0,downsloping,0,2,1
+35,Male,atypical angina,122.0,192.0,False,having ST-T wave abnormality,174,No,0.0,downsloping,0,2,1
+58,Male,atypical angina,125.0,220.0,False,having ST-T wave abnormality,144,No,0.4,flat,4,3,1
+56,Male,atypical angina,130.0,221.0,False,normal,163,No,0.0,downsloping,0,3,1
+56,Male,atypical angina,120.0,240.0,False,having ST-T wave abnormality,169,No,0.0,upsloping,0,2,1
+55,Female,atypical angina,132.0,342.0,False,having ST-T wave abnormality,166,No,1.2,downsloping,0,2,1
+41,Male,atypical angina,120.0,157.0,False,having ST-T wave abnormality,182,No,0.0,downsloping,0,2,1
+38,Male,non-anginal pain,138.0,175.0,False,having ST-T wave abnormality,173,No,0.0,downsloping,4,2,1
+38,Male,non-anginal pain,138.0,175.0,False,having ST-T wave abnormality,173,No,0.0,downsloping,4,2,1
+67,Male,typical angina,160.0,286.0,False,normal,108,Yes,1.5,flat,3,2,0
+67,Male,typical angina,,229.0,False,normal,129,Yes,2.6,flat,2,3,0
+62,Female,typical angina,140.0,268.0,False,normal,160,No,3.6,upsloping,2,2,0
+63,Male,typical angina,130.0,254.0,False,normal,147,No,1.4,flat,1,3,0
+53,Male,typical angina,140.0,203.0,True,normal,155,Yes,3.1,upsloping,0,3,0
+56,Male,non-anginal pain,130.0,256.0,True,normal,142,Yes,0.6,flat,1,1,0
+48,Male,atypical angina,,229.0,False,having ST-T wave abnormality,168,No,1.0,upsloping,0,3,0
+58,Male,atypical angina,120.0,284.0,False,normal,160,No,1.8,flat,0,2,0
+58,Male,non-anginal pain,,224.0,False,normal,173,No,3.2,downsloping,2,3,0
+60,Male,typical angina,130.0,206.0,False,normal,132,Yes,2.4,flat,2,3,0
+40,Male,typical angina,110.0,167.0,False,normal,114,Yes,2.0,flat,0,3,0
+60,Male,typical angina,117.0,230.0,True,having ST-T wave abnormality,160,Yes,1.4,downsloping,2,3,0
+64,Male,non-anginal pain,140.0,335.0,False,having ST-T wave abnormality,158,No,0.0,downsloping,0,2,0
+43,Male,typical angina,120.0,177.0,False,normal,120,Yes,2.5,flat,0,3,0
+57,Male,typical angina,150.0,276.0,False,normal,112,Yes,0.6,flat,1,1,0
+55,Male,typical angina,132.0,353.0,False,having ST-T wave abnormality,132,Yes,1.2,flat,1,3,0
+65,Female,typical angina,150.0,225.0,False,normal,114,No,1.0,flat,3,3,0
+61,Female,typical angina,130.0,330.0,False,normal,169,No,0.0,downsloping,0,2,0
+58,Male,non-anginal pain,,230.0,False,normal,165,No,2.5,flat,1,3,0
+50,Male,typical angina,150.0,243.0,False,normal,128,No,2.6,flat,0,3,0
+44,Male,typical angina,112.0,290.0,False,normal,153,No,0.0,downsloping,1,2,0
+60,Male,typical angina,130.0,253.0,False,having ST-T wave abnormality,144,Yes,1.4,downsloping,1,3,0
+54,Male,typical angina,124.0,266.0,False,normal,109,Yes,2.2,flat,1,3,0
+50,Male,non-anginal pain,140.0,233.0,False,having ST-T wave abnormality,163,No,0.6,flat,1,3,0
+41,Male,typical angina,,172.0,False,normal,158,No,0.0,downsloping,0,3,0
+51,Female,typical angina,130.0,,False,having ST-T wave abnormality,142,Yes,1.2,flat,0,3,0
+58,Male,typical angina,128.0,216.0,False,normal,131,Yes,2.2,flat,3,3,0
+54,Male,typical angina,120.0,188.0,False,having ST-T wave abnormality,113,No,1.4,flat,1,3,0
+60,Male,typical angina,145.0,282.0,False,normal,142,Yes,2.8,flat,2,3,0
+60,Male,non-anginal pain,140.0,185.0,False,normal,155,No,3.0,flat,0,2,0
+59,Male,typical angina,,326.0,False,normal,140,Yes,3.4,upsloping,0,3,0
+46,Male,non-anginal pain,150.0,231.0,False,having ST-T wave abnormality,147,No,3.6,flat,0,2,0
+67,Male,typical angina,125.0,254.0,True,having ST-T wave abnormality,163,No,0.2,flat,2,3,0
+62,Male,typical angina,120.0,,False,having ST-T wave abnormality,99,Yes,1.8,flat,2,3,0
+65,Male,typical angina,110.0,248.0,False,normal,158,No,0.6,downsloping,2,1,0
+44,Male,typical angina,110.0,197.0,False,normal,177,No,0.0,downsloping,1,2,0
+60,Male,typical angina,,258.0,False,normal,141,Yes,2.8,flat,1,3,0
+58,Male,typical angina,150.0,270.0,False,normal,111,Yes,0.8,downsloping,0,3,0
+68,Male,non-anginal pain,,274.0,True,normal,150,Yes,1.6,flat,0,3,0
+62,Female,typical angina,160.0,164.0,False,normal,145,No,6.2,upsloping,3,3,0
+52,Male,typical angina,128.0,255.0,False,having ST-T wave abnormality,161,Yes,0.0,downsloping,1,3,0
+59,Male,typical angina,110.0,,False,normal,142,Yes,1.2,flat,1,3,0
+60,Female,typical angina,150.0,258.0,False,normal,157,No,2.6,flat,2,3,0
+49,Male,non-anginal pain,,188.0,False,having ST-T wave abnormality,139,No,2.0,flat,3,3,0
+59,Male,typical angina,140.0,177.0,False,having ST-T wave abnormality,162,Yes,0.0,downsloping,1,3,0
+57,Male,non-anginal pain,128.0,229.0,False,normal,150,No,0.4,flat,1,3,0
+61,Male,typical angina,120.0,260.0,False,having ST-T wave abnormality,140,Yes,3.6,flat,1,3,0
+39,Male,typical angina,118.0,219.0,False,having ST-T wave abnormality,140,No,1.2,flat,0,3,0
+61,Female,typical angina,145.0,307.0,False,normal,146,Yes,1.0,flat,0,3,0
+56,Male,typical angina,,249.0,True,normal,144,Yes,1.2,flat,1,2,0
+43,Female,typical angina,132.0,341.0,True,normal,136,Yes,3.0,flat,0,3,0
+62,Female,non-anginal pain,130.0,,False,having ST-T wave abnormality,97,No,1.2,flat,1,3,0
+63,Male,typical angina,130.0,330.0,True,normal,132,Yes,1.8,downsloping,3,3,0
+65,Male,typical angina,135.0,254.0,False,normal,127,No,2.8,flat,1,3,0
+48,Male,typical angina,130.0,256.0,True,normal,150,Yes,0.0,downsloping,2,3,0
+63,Female,typical angina,150.0,407.0,False,normal,154,No,4.0,flat,3,3,0
+55,Male,typical angina,140.0,217.0,False,having ST-T wave abnormality,111,Yes,5.6,upsloping,0,3,0
+65,Male,asymptomatic,,282.0,True,normal,174,No,1.4,flat,1,2,0
+56,Female,typical angina,200.0,288.0,True,normal,133,Yes,4.0,upsloping,2,3,0
+54,Male,typical angina,110.0,239.0,False,having ST-T wave abnormality,126,Yes,2.8,flat,1,3,0
+70,Male,typical angina,145.0,174.0,False,having ST-T wave abnormality,125,Yes,2.6,upsloping,0,3,0
+62,Male,atypical angina,120.0,281.0,False,normal,103,No,1.4,flat,1,3,0
+35,Male,typical angina,120.0,198.0,False,having ST-T wave abnormality,130,Yes,1.6,flat,0,3,0
+59,Male,asymptomatic,170.0,288.0,False,normal,159,No,0.2,flat,0,3,0
+64,Male,non-anginal pain,125.0,309.0,False,having ST-T wave abnormality,131,Yes,1.8,flat,0,3,0
+47,Male,non-anginal pain,108.0,243.0,False,having ST-T wave abnormality,152,No,0.0,downsloping,0,2,0
+57,Male,typical angina,,,True,normal,124,No,1.0,flat,3,3,0
+55,Male,typical angina,160.0,289.0,False,normal,145,Yes,0.8,flat,1,3,0
+64,Male,typical angina,120.0,246.0,False,normal,96,Yes,2.2,upsloping,1,2,0
+70,Male,typical angina,130.0,,False,normal,109,No,2.4,flat,3,2,0
+51,Male,typical angina,140.0,,False,having ST-T wave abnormality,173,Yes,1.6,downsloping,0,3,0
+58,Male,typical angina,125.0,300.0,False,normal,171,No,0.0,downsloping,2,3,0
+60,Male,typical angina,140.0,,False,normal,170,No,1.2,flat,2,3,0
+77,Male,typical angina,125.0,304.0,False,normal,162,Yes,0.0,downsloping,3,2,0
+35,Male,typical angina,126.0,282.0,False,normal,156,Yes,0.0,downsloping,0,3,0
+70,Male,non-anginal pain,160.0,,False,having ST-T wave abnormality,112,Yes,2.9,flat,1,3,0
+59,Female,typical angina,174.0,249.0,False,having ST-T wave abnormality,143,Yes,0.0,flat,0,2,0
+64,Male,typical angina,,212.0,False,normal,132,No,2.0,flat,2,1,0
+57,Male,typical angina,152.0,274.0,False,having ST-T wave abnormality,88,Yes,1.2,flat,1,3,0
+56,Male,typical angina,132.0,184.0,False,normal,105,Yes,2.1,flat,1,1,0
+48,Male,typical angina,,274.0,False,normal,166,No,0.5,flat,0,3,0
+56,Female,typical angina,134.0,409.0,False,normal,150,Yes,1.9,flat,2,3,0
+66,Male,atypical angina,,,False,having ST-T wave abnormality,120,Yes,0.0,flat,3,1,0
+54,Male,atypical angina,,283.0,False,normal,195,No,0.0,downsloping,1,3,0
+69,Male,non-anginal pain,140.0,254.0,False,normal,146,No,2.0,flat,3,3,0
+51,Male,typical angina,,298.0,False,having ST-T wave abnormality,122,Yes,4.2,flat,3,3,0
+43,Male,typical angina,132.0,247.0,True,normal,143,Yes,0.1,flat,4,3,0
+62,Female,typical angina,138.0,294.0,True,having ST-T wave abnormality,106,No,1.9,flat,3,2,0
+67,Male,typical angina,,299.0,False,normal,125,Yes,0.9,flat,2,2,0
+59,Male,asymptomatic,160.0,273.0,False,normal,125,No,0.0,downsloping,0,2,0
+45,Male,typical angina,,309.0,False,normal,147,Yes,0.0,flat,3,3,0
+58,Male,typical angina,,259.0,False,normal,130,Yes,3.0,flat,2,3,0
+50,Male,typical angina,144.0,200.0,False,normal,126,Yes,0.9,flat,0,3,0
+62,Female,typical angina,,244.0,False,having ST-T wave abnormality,154,Yes,1.4,flat,0,2,0
+38,Male,asymptomatic,120.0,231.0,False,having ST-T wave abnormality,182,Yes,3.8,flat,0,3,0
+66,Female,typical angina,178.0,228.0,True,having ST-T wave abnormality,165,Yes,1.0,flat,2,3,0
+52,Male,typical angina,112.0,230.0,False,having ST-T wave abnormality,160,No,0.0,downsloping,1,2,0
+53,Male,typical angina,123.0,282.0,False,having ST-T wave abnormality,95,Yes,2.0,flat,2,3,0
+63,Female,typical angina,108.0,269.0,False,having ST-T wave abnormality,169,Yes,1.8,flat,2,2,0
+54,Male,typical angina,110.0,206.0,False,normal,108,Yes,0.0,flat,1,2,0
+66,Male,typical angina,112.0,212.0,False,normal,132,Yes,0.1,downsloping,1,2,0
+55,Female,typical angina,180.0,327.0,False,showing probable or definite left ventricular hypertrophy by Estes' criteria,117,Yes,3.4,flat,0,2,0
+49,Male,non-anginal pain,,149.0,False,normal,126,No,0.8,downsloping,3,2,0
+54,Male,typical angina,122.0,286.0,False,normal,116,Yes,3.2,flat,2,2,0
+56,Male,typical angina,130.0,283.0,True,normal,103,Yes,1.6,upsloping,0,3,0
+46,Male,typical angina,,249.0,False,normal,144,No,0.8,downsloping,0,3,0
+61,Male,asymptomatic,134.0,234.0,False,having ST-T wave abnormality,145,No,2.6,flat,2,2,0
+67,Male,typical angina,120.0,237.0,False,having ST-T wave abnormality,71,No,1.0,flat,0,2,0
+58,Male,typical angina,100.0,,False,having ST-T wave abnormality,156,No,0.1,downsloping,1,3,0
+47,Male,typical angina,110.0,275.0,False,normal,118,Yes,1.0,flat,1,2,0
+52,Male,typical angina,125.0,,False,having ST-T wave abnormality,168,No,1.0,downsloping,2,3,0
+58,Male,typical angina,,218.0,False,having ST-T wave abnormality,105,No,2.0,flat,1,3,0
+57,Male,atypical angina,124.0,261.0,False,having ST-T wave abnormality,141,No,0.3,downsloping,0,3,0
+58,Female,atypical angina,136.0,319.0,True,normal,152,No,0.0,downsloping,2,2,0
+61,Male,typical angina,,166.0,False,normal,125,Yes,3.6,flat,1,2,0
+42,Male,typical angina,,315.0,False,having ST-T wave abnormality,125,Yes,1.8,flat,0,1,0
+52,Male,typical angina,128.0,204.0,True,having ST-T wave abnormality,156,Yes,1.0,flat,0,0,0
+59,Male,non-anginal pain,126.0,218.0,True,having ST-T wave abnormality,134,No,2.2,flat,1,1,0
+40,Male,typical angina,152.0,,False,having ST-T wave abnormality,181,No,0.0,downsloping,0,3,0
+61,Male,typical angina,140.0,207.0,False,normal,138,Yes,1.9,downsloping,1,3,0
+46,Male,typical angina,140.0,311.0,False,having ST-T wave abnormality,120,Yes,1.8,flat,2,3,0
+59,Male,asymptomatic,134.0,204.0,False,having ST-T wave abnormality,162,No,0.8,downsloping,2,2,0
+57,Male,atypical angina,154.0,232.0,False,normal,164,No,0.0,downsloping,1,2,0
+57,Male,typical angina,110.0,335.0,False,having ST-T wave abnormality,143,Yes,3.0,flat,1,3,0
+55,Female,typical angina,128.0,205.0,False,showing probable or definite left ventricular hypertrophy by Estes' criteria,130,Yes,2.0,flat,1,3,0
+61,Male,typical angina,148.0,203.0,False,having ST-T wave abnormality,161,No,0.0,downsloping,1,3,0
+58,Male,typical angina,114.0,318.0,False,showing probable or definite left ventricular hypertrophy by Estes' criteria,140,No,4.4,upsloping,3,1,0
+58,Female,typical angina,170.0,225.0,True,normal,146,Yes,2.8,flat,2,1,0
+67,Male,non-anginal pain,,212.0,False,normal,150,No,0.8,flat,0,3,0
+44,Male,typical angina,120.0,169.0,False,having ST-T wave abnormality,144,Yes,2.8,upsloping,0,1,0
+63,Male,typical angina,140.0,187.0,False,normal,144,Yes,4.0,downsloping,2,3,0
+63,Female,typical angina,124.0,197.0,False,having ST-T wave abnormality,136,Yes,0.0,flat,0,2,0
+59,Male,typical angina,164.0,,True,normal,90,No,1.0,flat,2,1,0
+57,Female,typical angina,140.0,241.0,False,having ST-T wave abnormality,123,Yes,0.2,flat,0,3,0
+45,Male,asymptomatic,110.0,264.0,False,having ST-T wave abnormality,132,No,1.2,flat,0,3,0
+68,Male,typical angina,144.0,193.0,True,having ST-T wave abnormality,141,No,3.4,flat,2,3,0
+57,Male,typical angina,130.0,131.0,False,having ST-T wave abnormality,115,Yes,1.2,flat,1,3,0
+57,Female,atypical angina,130.0,236.0,False,normal,174,No,0.0,flat,1,2,0
